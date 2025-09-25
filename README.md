@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @santubangalore
 - 👀 I’m interested in Software Project Assignment
-- 🌱 I’m currently learning ReactJS and MS Azure
+- 🌱 I’m currently develop using ReactJS and Next JS 
 - 💞️ I’m looking to collaborate on Cloud based Microservices and Front end development assignment
 - 📫 How to reach me email: santutsk@gmail.com
 
